@@ -1,0 +1,76 @@
+{% load static %}
+<!DOCTYPE html>
+<html><head>
+    <meta charset="utf-8">
+    <title>Login page</title>
+    <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <link rel="stylesheet" type="text/css" href="{% static '/css/bootstrap.min.css' %}">
+    <link rel="stylesheet" type="text/css" href="{% static '/css/scrollbar.min.css' %}">
+    <link rel="stylesheet" type="text/css" href="{% static '/css/class.css' %}">
+
+</head>
+
+<body >
+
+    <div class="container-fluid">
+        <div class="row">
+
+            <div class="col-12 col-sm-12 col-md-12 col-lg-7">
+                <div class="bg"> </div>
+<!--                <img src="/static/images/ship0.png">-->
+            </div>
+
+            <div class="col-12 col-sm-12 col-md-12 col-lg-5 text-center left__section" style="background-color:#0065A5;">
+                <br>
+            <br>
+            <br>
+            <br>
+                <div align="center"> <img border="0" alt="" src="/static/images/ll.png" width="200" height="100"></div>
+                <div class="dowebok ps">
+                    <form method="POST" action="" class="mt-4">
+                        {% csrf_token %}
+                        <div class="input-group my-4">
+                            <div class="input-group-prepend">
+                                <label for="formGroupExampleInput" class="d-block mx-auto"><img src="/static/images/user.png" width="20" height="20" class="mt-2"></label>
+                            </div>
+                            <input type="text" class="form-control" name="username" placeholder="Username" aria-label="" aria-describedby="basic-addon1">
+                        </div>
+                        <div class="input-group my-4">
+                            <div class="input-group-prepend">
+                                <label for="formGroupExampleInput" class="d-block mx-auto"><img src="/static/images/locker.png" width="20" height="20" class="mt-2"></label>
+                            </div>
+                            <input type="password" name="password" class="form-control" placeholder="Password" aria-label="" aria-describedby="basic-addon1">
+                        </div>
+
+                        <div class="d-flex justify-content-between align-items-center" style="float:right;">
+                            <button class="btn btn-primary" type="submit" value="Login" style="background-color: #FFCE1B;">Login</button>
+                        </div>
+
+                        <div style="float:left;">
+                             <button class="btn btn-primary" style="background-color: #FFCE1B;"><a href="mailto:someone@example.com" >Send email</button></a>
+<!--                            <a href="http://google.com">-->
+<!--                                <button class="btn btn-primary" style="background-color: #FFCE1B;">Contact admin</button>-->
+<!--                            </a>-->
+<!--                            <a href="http://google.com" class="button">Continue</a>-->
+
+<!--                            <a href="http://google.com">-->
+<!--                                <button>Click me</button>-->
+<!--                            </a>-->
+                        </div>
+                    </form>
+
+                    <br>
+                    <br>
+                   <div class="message" style="background-color: steelblue;" >
+                       {% for message in messages %}
+                                 <p id="messages"> {{message}}</p>
+                        {% endfor %}
+                   </div>
+                <div class="ps__rail-x" style="left: 0px; bottom: 0px;"><div class="ps__thumb-x" tabindex="0" style="left: 0px; width: 0px;"></div></div><div class="ps__rail-y" style="top: 0px; right: 0px;"><div class="ps__thumb-y" tabindex="0" style="top: 0px; height: 0px;"></div></div></div>
+            </div>
+
+
+        </div>
+    </div>
+
+</body></html>

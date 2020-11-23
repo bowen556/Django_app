@@ -1,0 +1,265 @@
+1301433	t17ss19	Mon Aug 3 17:08:54 2020	Test cases with comments + Download PDF
+18970d4	tangjikededela	Sat Aug 1 14:51:07 2020	Merge pull request #69 from UoA-CS5942/Sneha
+5c11e51	t17ss19	Sat Aug 1 14:18:24 2020	Cargoes Permitted - Storing values instead of numbers makemigrations
+594448e	t17ss19	Sat Aug 1 14:16:49 2020	Cargoes Permitted - Storing values instead of numbers
+329f41e	Sneha Sabu	Sat Aug 1 14:12:07 2020	Update status.html
+9d4024a	BarkaviSJ	Fri Jul 31 23:25:12 2020	Update README.md
+766bc60	BarkaviSJ	Fri Jul 31 23:17:52 2020	Update README.md
+9765447	BarkaviSJ	Fri Jul 31 22:47:30 2020	Update README.md
+19d4174	BarkaviSJ	Fri Jul 31 22:37:26 2020	Merge pull request #68 from UoA-CS5942/Barkavi
+273f4d7	BarkaviSJ	Fri Jul 31 22:35:36 2020	last static image for readme
+e886b4f	BarkaviSJ	Fri Jul 31 22:31:07 2020	Update README.md
+6255bf5	BarkaviSJ	Fri Jul 31 22:27:32 2020	Merge pull request #67 from UoA-CS5942/Barkavi
+91a4240	BarkaviSJ	Fri Jul 31 22:25:48 2020	Update README.md
+2c22b40	BarkaviSJ	Fri Jul 31 22:18:16 2020	static images for readme
+f827759	BarkaviSJ	Fri Jul 31 21:52:10 2020	Update README.md
+b99d953	Sneha Sabu	Fri Jul 31 20:46:57 2020	Update README.md
+fe790cd	Sneha Sabu	Fri Jul 31 20:38:20 2020	Update README.md
+2b413f8	Sneha Sabu	Fri Jul 31 20:36:33 2020	Add files via upload
+d3bbaf5	Sneha Sabu	Fri Jul 31 20:35:08 2020	Update README.md
+f888281	BarkaviSJ	Fri Jul 31 20:24:12 2020	Update README.md
+1ce4b34	BarkaviSJ	Fri Jul 31 20:11:27 2020	Update README.md
+1161670	BarkaviSJ	Fri Jul 31 19:43:57 2020	Update README.md
+3b3d5e4	BarkaviSJ	Fri Jul 31 19:21:15 2020	Update README.md
+0798b65	BarkaviSJ	Fri Jul 31 19:04:48 2020	Update README.md
+7b33627	BarkaviSJ	Fri Jul 31 19:02:17 2020	Update README.md
+fc11c95	BarkaviSJ	Fri Jul 31 18:52:42 2020	Update README.md
+4e496bc	BarkaviSJ	Fri Jul 31 18:51:38 2020	Update README.md
+476a4b7	BarkaviSJ	Fri Jul 31 18:47:15 2020	Update README.md
+90aaa6a	BarkaviSJ	Fri Jul 31 18:44:52 2020	Update README.md
+68044b0	BarkaviSJ	Fri Jul 31 16:45:31 2020	Merge pull request #66 from UoA-CS5942/Barkavi
+8f1eb5c	BarkaviSJ	Fri Jul 31 16:44:12 2020	static images for readme
+9c5796b	BarkaviSJ	Fri Jul 31 16:32:24 2020	Update README.md
+13c2b95	BarkaviSJ	Fri Jul 31 15:05:40 2020	Update README.md
+124553b	BarkaviSJ	Fri Jul 31 15:00:11 2020	Update README.md
+d13d29a	BarkaviSJ	Fri Jul 31 13:50:38 2020	Update README.md
+a6b4ef3	Sneha Sabu	Fri Jul 31 13:41:57 2020	Update README.md
+b3ec819	Sneha Sabu	Fri Jul 31 13:36:55 2020	Update README.md
+d294a8e	Sneha Sabu	Fri Jul 31 13:35:50 2020	Update README.md
+48b35e4	tangjikededela	Fri Jul 31 13:30:40 2020	Update models.py
+834067e	Sneha Sabu	Fri Jul 31 13:28:27 2020	Update README.md
+de1b964	Sneha Sabu	Fri Jul 31 13:14:37 2020	Update README.md
+9f07cba	Sneha Sabu	Fri Jul 31 13:05:08 2020	Add files via upload
+ab08e2d	tangjikededela	Fri Jul 31 13:03:47 2020	Update settings.py
+707193f	Sneha Sabu	Fri Jul 31 13:02:56 2020	Update README.md
+d684cd4	Sneha Sabu	Fri Jul 31 00:45:49 2020	Update README.md
+82a277a	Sneha Sabu	Fri Jul 31 00:17:49 2020	Update README.md
+717a120	Sneha Sabu	Fri Jul 31 00:09:24 2020	Add files via upload
+93362a7	Sneha Sabu	Fri Jul 31 00:08:46 2020	Update README.md
+124899d	Sneha Sabu	Thu Jul 30 23:48:55 2020	Add files via upload
+3624f94	Sneha Sabu	Thu Jul 30 23:48:20 2020	Delete deployment9.jpg
+8ea76cf	Sneha Sabu	Thu Jul 30 23:48:03 2020	Delete deployment8.jpg
+8dd501d	Sneha Sabu	Thu Jul 30 23:47:45 2020	Delete deployment7.jpg
+1f0cd2e	Sneha Sabu	Thu Jul 30 23:47:30 2020	Delete deployment6.jpg
+251a3db	Sneha Sabu	Thu Jul 30 23:47:13 2020	Delete deployment5.jpg
+36d877e	Sneha Sabu	Thu Jul 30 23:46:56 2020	Delete deployment4.jpg
+c8f5e18	Sneha Sabu	Thu Jul 30 23:25:13 2020	Update README.md
+dc78b2c	Sneha Sabu	Thu Jul 30 23:18:52 2020	Update README.md
+488a75b	Sneha Sabu	Thu Jul 30 23:04:05 2020	Readme file images
+c2196c0	Sneha Sabu	Thu Jul 30 23:00:45 2020	Delete deployment31.jpg
+5636d67	Sneha Sabu	Thu Jul 30 23:00:17 2020	Delete deployment30.jpg
+b2b8c4a	Sneha Sabu	Thu Jul 30 23:00:03 2020	Delete deployment29.jpg
+7349aeb	Sneha Sabu	Thu Jul 30 22:59:52 2020	Delete deployment28.jpg
+cf7da48	Sneha Sabu	Thu Jul 30 22:59:40 2020	Delete deployment27.jpg
+10497ef	Sneha Sabu	Thu Jul 30 22:59:29 2020	Delete deployment26.jpg
+b70ea23	Sneha Sabu	Thu Jul 30 22:59:18 2020	Delete deployment25.jpg
+3fbff2e	Sneha Sabu	Thu Jul 30 22:59:00 2020	Delete deployment24.jpg
+873b04a	Sneha Sabu	Thu Jul 30 22:58:48 2020	Delete deployment23.jpg
+01995db	Sneha Sabu	Thu Jul 30 22:58:38 2020	Delete deployment22.jpg
+4e92835	Sneha Sabu	Thu Jul 30 22:58:27 2020	Delete deployment21.jpg
+e30817d	Sneha Sabu	Thu Jul 30 22:58:13 2020	Delete deployment20.jpg
+1c799ae	Sneha Sabu	Thu Jul 30 22:57:59 2020	Delete deployment19.jpg
+e15307c	Sneha Sabu	Thu Jul 30 22:57:45 2020	Delete deployment18.jpg
+48470e0	Sneha Sabu	Thu Jul 30 22:57:34 2020	Delete deployment17.jpg
+ab3dc2d	Sneha Sabu	Thu Jul 30 22:57:23 2020	Delete deployment16.jpg
+0e03b60	Sneha Sabu	Thu Jul 30 22:57:13 2020	Delete deployment15.jpg
+a83f2ec	Sneha Sabu	Thu Jul 30 22:57:02 2020	Delete deployment14.jpg
+90030b2	Sneha Sabu	Thu Jul 30 22:56:50 2020	Delete deployment13.jpg
+27478db	Sneha Sabu	Thu Jul 30 22:56:39 2020	Delete deployment12.jpg
+40ca044	Sneha Sabu	Thu Jul 30 22:56:29 2020	Delete deployment11.jpg
+4b99794	Sneha Sabu	Thu Jul 30 22:56:12 2020	Delete deployment10.jpg
+f8af3a3	Sneha Sabu	Thu Jul 30 22:35:31 2020	Update README.md
+b6da593	Sneha Sabu	Thu Jul 30 21:51:43 2020	Update README.md
+9500862	Sneha Sabu	Thu Jul 30 21:40:55 2020	Update README.md
+9fa7461	Sneha Sabu	Thu Jul 30 21:20:10 2020	Add files via upload
+fe4c65c	tangjikededela	Thu Jul 30 20:13:42 2020	Update filters.py
+61a1a03	tangjikededela	Thu Jul 30 20:12:29 2020	Update urls.py
+8f29297	tangjikededela	Thu Jul 30 19:23:44 2020	Update models.py
+e17b79a	tangjikededela	Thu Jul 30 16:24:11 2020	Update views.py
+b6d880a	BarkaviSJ	Thu Jul 30 16:22:40 2020	Merge pull request #65 from UoA-CS5942/Sneha
+83dbeb7	t17ss19	Thu Jul 30 16:21:01 2020	STS Locations calculation - error message on Admin
+504abd5	tangjikededela	Thu Jul 30 16:03:06 2020	Merge pull request #64 from UoA-CS5942/Sneha
+10f04f1	Sneha Sabu	Thu Jul 30 14:14:33 2020	Update README.md
+adc0def	t17ss19	Thu Jul 30 14:09:54 2020	PDF Rename + Admin layout changes
+e622df3	Sneha Sabu	Thu Jul 30 02:00:29 2020	Update README.md
+8fa7d5a	Sneha Sabu	Thu Jul 30 02:00:00 2020	Update README.md
+86ee24d	Sneha Sabu	Thu Jul 30 01:58:50 2020	Update README.md
+744ecda	Sneha Sabu	Thu Jul 30 01:44:59 2020	Update README.md
+4d5a166	Sneha Sabu	Thu Jul 30 01:44:29 2020	Update README.md
+55f935c	Sneha Sabu	Thu Jul 30 01:42:32 2020	Update README.md
+a35cfd6	Sneha Sabu	Thu Jul 30 01:41:58 2020	Update README.md
+ffab0f5	Sneha Sabu	Thu Jul 30 01:30:59 2020	Update README.md
+8803e9e	Sneha Sabu	Thu Jul 30 01:21:39 2020	Add files via upload
+f3196f1	Sneha Sabu	Thu Jul 30 01:21:22 2020	Delete deployment2.jpg
+a652d7a	Sneha Sabu	Thu Jul 30 01:00:24 2020	Merge pull request #63 from UoA-CS5942/Sneha
+58a35a5	t17ss19	Thu Jul 30 00:59:50 2020	Readme file updates
+3c087e7	Sneha Sabu	Thu Jul 30 00:49:27 2020	Readme file screenshots
+e6f1649	BarkaviSJ	Wed Jul 29 20:43:01 2020	Merge pull request #62 from UoA-CS5942/Sneha
+d591d73	t17ss19	Wed Jul 29 20:41:34 2020	Users, Locations page pagination layout edits
+d7a837a	tangjikededela	Wed Jul 29 20:27:34 2020	Merge pull request #61 from UoA-CS5942/Sneha
+20a7d12	t17ss19	Wed Jul 29 20:26:18 2020	Pagination on Locations and Users page
+a3ecc2d	bowen556	Wed Jul 29 20:17:16 2020	Merge pull request #60 from UoA-CS5942/Sneha
+7699395	t17ss19	Wed Jul 29 20:15:24 2020	Readme file updates
+8d197f2	Sneha Sabu	Wed Jul 29 20:14:16 2020	Merge pull request #59 from UoA-CS5942/bowen
+96182f7	bowen111	Wed Jul 29 12:20:51 2020	PDF aduit logs
+0dbcc91	BarkaviSJ	Tue Jul 28 23:38:17 2020	Merge pull request #58 from UoA-CS5942/Sneha
+39be589	t17ss19	Tue Jul 28 23:35:59 2020	Regions update
+f6178ff	Sneha Sabu	Tue Jul 28 22:18:14 2020	Merge pull request #57 from UoA-CS5942/Barkavi
+387539f	BarkaviSJ	Tue Jul 28 21:53:03 2020	admin layout changes
+712fc36	Sneha Sabu	Tue Jul 28 21:32:33 2020	Merge pull request #56 from UoA-CS5942/Barkavi
+1e083ec	BarkaviSJ	Tue Jul 28 20:47:47 2020	Update README.md
+08fb771	BarkaviSJ	Tue Jul 28 20:40:46 2020	FAQs admin + FAQs user + help_text and text area + Navbar layout changes
+47d6917	BarkaviSJ	Tue Jul 28 12:51:37 2020	Merge pull request #55 from UoA-CS5942/Sneha
+cd7cdee	t17ss19	Tue Jul 28 11:52:43 2020	Graph update on Dashboard page + Test case update
+d8967e0	BarkaviSJ	Tue Jul 28 09:44:45 2020	Merge pull request #54 from UoA-CS5942/Sneha
+eccc331	Sneha Sabu	Tue Jul 28 00:39:54 2020	Update README.md
+7950a0e	t17ss19	Mon Jul 27 22:09:24 2020	Static FAQs Help Page - User Manual
+1d9d0a5	bowen556	Mon Jul 27 21:21:22 2020	Update views.py
+e33b352	bowen556	Mon Jul 27 21:19:36 2020	delete the extra comma
+cdd720b	Sneha Sabu	Mon Jul 27 19:27:15 2020	Merge pull request #53 from UoA-CS5942/Barkavi
+15e6c2d	BarkaviSJ	Mon Jul 27 17:33:03 2020	Generate PDF functionality for locations and auditlogs and updated all location attributes
+6f24e27	tangjikededela	Mon Jul 27 14:39:03 2020	Update login.html
+055484d	tangjikededela	Mon Jul 27 14:38:08 2020	Update views.py
+e5fdd62	Sneha Sabu	Sun Jul 26 22:53:35 2020	Update settings.py
+20d825c	BarkaviSJ	Sun Jul 26 21:31:40 2020	Merge pull request #52 from UoA-CS5942/Sneha
+f8d0448	t17ss19	Sun Jul 26 21:25:47 2020	Unit and Integration Test cases
+8722a93	tangjikededela	Mon Jul 20 19:24:13 2020	Merge pull request #51 from UoA-CS5942/Sneha
+707d57f	t17ss19	Mon Jul 20 18:46:07 2020	Admin panel CSS file
+8d6752d	Sneha Sabu	Mon Jul 20 16:56:04 2020	Merge pull request #50 from UoA-CS5942/Barkavi
+b5550b0	BarkaviSJ	Mon Jul 20 16:53:57 2020	admin panel help text + text area and locations page layout changes
+265e91e	BarkaviSJ	Mon Jul 20 16:30:30 2020	Merge pull request #49 from UoA-CS5942/Sneha
+85d4aad	t17ss19	Mon Jul 20 15:42:44 2020	Locations model Tests + Admin panel layout changes
+5c5af63	tangjikededela	Sun Jul 19 19:36:28 2020	Merge pull request #48 from UoA-CS5942/Sneha
+246c45d	t17ss19	Sun Jul 19 19:33:13 2020	Layout changes
+0dd9363	tangjikededela	Sun Jul 19 19:05:05 2020	Merge pull request #47 from UoA-CS5942/Sneha
+1e8e59a	t17ss19	Sun Jul 19 19:03:59 2020	Blacklist log - removing user id
+a8a6d4b	tangjikededela	Sun Jul 19 18:15:55 2020	Update settings.py
+7801781	tangjikededela	Sun Jul 19 18:15:18 2020	Merge pull request #46 from UoA-CS5942/Sneha
+3a80af4	t17ss19	Sun Jul 19 18:12:56 2020	Audit logs - View page and additional details for admin users
+e6d2e12	Sneha Sabu	Sun Jul 19 17:19:51 2020	Merge pull request #45 from UoA-CS5942/RuilinWang
+7253547	unknown	Sun Jul 19 17:14:46 2020	Optamzation for reset
+5a3ed59	unknown	Sun Jul 19 17:05:58 2020	Optimzation for reset
+2677ef2	tangjikededela	Sat Jul 18 22:10:04 2020	Merge pull request #44 from UoA-CS5942/Sneha
+7adcc2d	t17ss19	Sat Jul 18 22:08:21 2020	Navbar + Viewlocations page layout changes + Map integer datatype
+0b9c25f	bowen556	Sat Jul 18 13:56:56 2020	Merge pull request #43 from UoA-CS5942/bowen
+c57c51a	bowen111	Sat Jul 18 13:55:58 2020	password
+a4b16de	bowen556	Sat Jul 18 00:12:40 2020	Merge pull request #42 from UoA-CS5942/bowen
+cb2a0ba	bowen111	Sat Jul 18 00:10:34 2020	viewpage
+47e9587	bowen556	Fri Jul 17 23:43:41 2020	Merge pull request #31 from UoA-CS5942/bowen
+f0eb0e7	bowen111	Fri Jul 17 23:41:57 2020	viewPage
+198edca	bowen556	Fri Jul 17 13:33:01 2020	Merge pull request #41 from UoA-CS5942/RuilinWang
+2195531	unknown	Fri Jul 17 13:26:54 2020	Black List Reset
+5755cb4	tangjikededela	Thu Jul 16 14:43:32 2020	Merge pull request #40 from UoA-CS5942/Sneha
+371390c	t17ss19	Thu Jul 16 14:42:29 2020	Map size
+76b1ac9	BarkaviSJ	Thu Jul 16 14:23:42 2020	Merge pull request #39 from UoA-CS5942/Sneha
+1ea6c0e	t17ss19	Thu Jul 16 14:22:39 2020	Allregions page layout changes
+4d15b6b	BarkaviSJ	Thu Jul 16 14:22:12 2020	Merge pull request #38 from UoA-CS5942/Sneha
+d67c06c	t17ss19	Thu Jul 16 14:20:36 2020	Allregions page layout changes
+cda2f08	tangjikededela	Thu Jul 16 14:04:29 2020	Merge pull request #37 from UoA-CS5942/RuilinWang
+7211c5b	unknown	Thu Jul 16 14:00:45 2020	navbar updata
+d627cc6	Sneha Sabu	Thu Jul 16 13:42:40 2020	Merge pull request #36 from UoA-CS5942/Barkavi
+efcde20	BarkaviSJ	Thu Jul 16 13:40:50 2020	locations.html styling
+3981a48	BarkaviSJ	Thu Jul 16 13:29:56 2020	Merge pull request #35 from UoA-CS5942/Sneha
+3a11f80	t17ss19	Thu Jul 16 13:28:41 2020	Layout changes - View locations page
+cef6524	tangjikededela	Wed Jul 15 22:16:00 2020	Update viewlocations.html
+fb5ab00	bowen556	Wed Jul 15 22:10:42 2020	Merge pull request #34 from UoA-CS5942/RuilinWang
+fe45cf8	unknown	Wed Jul 15 22:09:35 2020	Update for Lock out
+2e2d444	Sneha Sabu	Wed Jul 15 20:28:41 2020	Merge pull request #33 from UoA-CS5942/RuilinWang
+00c5d74	unknown	Wed Jul 15 20:27:00 2020	RegionFilter
+3489465	tangjikededela	Wed Jul 15 12:53:25 2020	Merge pull request #32 from UoA-CS5942/Sneha
+d0042a1	t17ss19	Wed Jul 15 12:49:54 2020	Region addition to Locations - with view page and functionality to assign locations to different regions
+909dbab	BarkaviSJ	Tue Jul 14 21:37:22 2020	Merge pull request #30 from UoA-CS5942/RuilinWang
+88e7883	unknown	Tue Jul 14 21:34:42 2020	More Complete Lock Out Function
+ae42a7c	bowen556	Tue Jul 14 17:52:42 2020	Merge pull request #28 from UoA-CS5942/Sneha
+3f87941	t17ss19	Tue Jul 14 17:50:04 2020	Viewlocations page - Formula based STS Latitude and Longitude value calculations + Correct Map display with Marker
+5600134	BarkaviSJ	Mon Jul 13 14:37:01 2020	Merge pull request #27 from UoA-CS5942/Sneha
+0153466	t17ss19	Mon Jul 13 14:33:54 2020	Error log on Admin panel + Remove register functionality
+63c4230	Sneha Sabu	Mon Jul 13 12:37:46 2020	Merge pull request #26 from UoA-CS5942/RuilinWang
+d7494f5	unknown	Mon Jul 13 12:36:36 2020	Lock Out Function
+c1f3ea5	tangjikededela	Thu Jul 9 19:54:27 2020	Merge pull request #25 from UoA-CS5942/Sneha
+3028085	t17ss19	Thu Jul 9 19:50:08 2020	Multiple image upload functionality for Admin user - Location Entry
+108939c	tangjikededela	Thu Jul 9 19:33:35 2020	Merge pull request #24 from UoA-CS5942/Sneha
+fd11604	t17ss19	Thu Jul 9 19:30:02 2020	User session details - IP, Browser, Last login date, etc.
+6af7f07	t17ss19	Thu Jul 9 19:27:24 2020	User session details - IP, Browser, Last login date, etc.
+d777a8f	Sneha Sabu	Thu Jul 9 19:00:29 2020	Merge pull request #23 from UoA-CS5942/Sneha
+d52e199	t17ss19	Thu Jul 9 18:45:42 2020	User session details - IP, Browser, Last login date, etc.
+8600f5c	tangjikededela	Thu Jul 9 12:01:49 2020	Merge pull request #22 from UoA-CS5942/Sneha
+6ddb255	t17ss19	Thu Jul 9 11:34:30 2020	Checkbox and Dropdown variable - Entry page on Admin dashboard
+3cf4baa	Sneha Sabu	Tue Jul 7 15:45:45 2020	Merge pull request #21 from UoA-CS5942/Barkavi
+606ef41	BarkaviSJ	Tue Jul 7 15:44:01 2020	map.html corrections and Floatfield in models
+6887326	bowen111	Tue Jul 7 15:41:52 2020	maps
+72e4d01	BarkaviSJ	Mon Jul 6 12:46:38 2020	map additions
+3ee4ea1	bowen556	Sun Jul 5 22:22:29 2020	Merge branch 'master' into bowen
+59154fb	bowen111	Sun Jul 5 21:29:14 2020	maps
+2bf2f50	tangjikededela	Sun Jul 5 20:56:54 2020	Merge pull request #18 from UoA-CS5942/Sneha
+305df6b	t17ss19	Sun Jul 5 20:53:00 2020	Homepage Mongodb charts
+1cd0aa0	t17ss19	Sun Jul 5 20:50:10 2020	Merge branch 'master' of https://github.com/UoA-CS5942/team_charlie_2020 into Sneha
+ca58f03	Sneha Sabu	Sun Jul 5 20:13:55 2020	Merge pull request #19 from UoA-CS5942/RuilinWang
+a718955	unknown	Sun Jul 5 20:13:12 2020	Filter update
+eb3d5af	t17ss19	Sat Jul 4 15:20:24 2020	View locations css
+478fcb0	tangjikededela	Sat Jul 4 14:43:48 2020	Merge pull request #17 from UoA-CS5942/Sneha
+5d303ea	t17ss19	Sat Jul 4 14:42:37 2020	View locations image condition
+e13c19e	Sneha Sabu	Fri Jul 3 20:09:53 2020	Merge pull request #16 from UoA-CS5942/RuilinWang
+c53c932	unknown	Fri Jul 3 20:08:04 2020	Upload Image and show Image
+cf3d3a5	BarkaviSJ	Fri Jul 3 14:57:54 2020	view locations
+f61bba8	t17ss19	Thu Jul 2 17:04:48 2020	Locations page conflicts merged
+a8df8fb	t17ss19	Thu Jul 2 17:03:50 2020	Locations page conflicts merged
+38cb4a1	BarkaviSJ	Thu Jul 2 16:47:22 2020	Merge pull request #14 from UoA-CS5942/Sneha
+9db0dde	t17ss19	Thu Jul 2 16:41:31 2020	View Locations Page
+19c333a	unknown	Thu Jul 2 13:32:58 2020	User Sotry one
+ebfb5ea	bowen556	Tue Jun 30 20:49:43 2020	Merge pull request #13 from UoA-CS5942/Sneha
+ba79c29	t17ss19	Tue Jun 30 20:48:09 2020	New pull request
+274459f	tangjikededela	Tue Jun 30 20:46:19 2020	Merge pull request #11 from UoA-CS5942/Sneha
+4068e8c	bowen111	Tue Jun 30 20:45:38 2020	bowen.test
+f2680d6	t17ss19	Tue Jun 30 20:40:57 2020	Remove additional test files
+ef51941	t17ss19	Tue Jun 30 20:38:56 2020	Updates
+20fafad	Sneha Sabu	Tue Jun 30 20:37:14 2020	Merge pull request #10 from UoA-CS5942/Sneha
+e340312	Sneha Sabu	Tue Jun 30 20:36:43 2020	Merge branch 'master' into Sneha
+0e6be05	BarkaviSJ	Tue Jun 30 20:29:56 2020	fourth commit
+2f1ce89	t17ss19	Tue Jun 30 20:29:50 2020	Updates
+82041b8	t17ss19	Tue Jun 30 20:27:46 2020	Merge branch 'master' of https://github.com/UoA-CS5942/team_charlie_2020 into Sneha
+34c5f7c	BarkaviSJ	Tue Jun 30 20:23:17 2020	Second Commit
+f628031	t17ss19	Tue Jun 30 20:11:44 2020	Second commit
+6a8f697	t17ss19	Tue Jun 30 20:07:57 2020	Second commit
+08b8afd	t17ss19	Tue Jun 30 20:04:31 2020	First commit 30th june
+7d91876	t17ss19	Tue Jun 30 19:59:52 2020	First commit
+31e295f	unknown	Tue Jun 30 14:16:09 2020	first draft application
+989455a	unknown	Tue Jun 30 13:57:31 2020	first draft application
+453e4d1	bowen556	Tue Jun 16 19:32:18 2020	Merge pull request #9 from UoA-CS5942/bowen.test
+995e1a1	bowen111	Tue Jun 16 19:26:47 2020	test
+10a0cab	bowen111	Tue Jun 16 18:32:37 2020	test
+68d1e78	bowen556	Tue Jun 16 16:23:05 2020	Add files via upload
+c100f41	t17ss19	Tue Jun 16 13:58:13 2020	16th June Commit
+d74904f	t17ss19	Tue Jun 16 14:04:06 2020	16th June Commit
+a65d3c8	unknown	Tue Jun 16 01:39:48 2020	test
+df7ee98	unknown	Tue Jun 16 01:29:23 2020	test
+39775b9	unknown	Tue Jun 16 01:20:41 2020	test
+6b7aac1	unknown	Tue Jun 16 00:29:19 2020	Merge branch 'RuilinWang'
+4736c38	unknown	Tue Jun 16 00:12:13 2020	Still testing
+8cfeaff	unknown	Tue Jun 16 00:01:11 2020	Still testing
+a7fd2ad	unknown	Mon Jun 15 23:53:03 2020	Still testing
+e034a71	t17ss19	Mon Jun 15 23:14:58 2020	Test file commit
+ce49168	t17ss19	Mon Jun 15 23:13:19 2020	Test file commit
+9ebabeb	unknown	Mon Jun 15 18:08:34 2020	Ruilin test
+e04c9f3	bowen556	Sun May 31 21:23:55 2020	Merge pull request #3 from UoA-CS5942/bowen.test
+96bb779	bowen556	Sun May 31 21:19:03 2020	Update Readme.md
+6bb574d	bowen556	Sun May 31 21:11:09 2020	Update README.md
+8b0a050	tangjikededela	Sun May 31 13:46:16 2020	Add files via upload
+8341c48	BarkaviSJ	Sun May 31 13:36:13 2020	updates to the file
+2740af8	BarkaviSJ	Sun May 31 13:34:40 2020	test file from local IDE
+a480d15	BarkaviSJ	Fri May 29 16:12:45 2020	Update README.md
+8e0bca1	BarkaviSJ	Fri May 29 16:10:29 2020	Merge pull request #2 from UoA-CS5942/BarkaviSJ-patch-1
+1f8a497	BarkaviSJ	Fri May 29 16:07:29 2020	Update README.md
+5e3839b	BarkaviSJ	Fri May 29 16:07:11 2020	Update README.md
+629ab3b	Sneha Sabu	Fri May 29 15:56:09 2020	First commit by Sneha
+aee5901	Bruce Scharlau	Fri May 29 13:19:41 2020	Initial commit
